@@ -34,7 +34,13 @@ namespace Number_system_converter
 
         private void LinkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://luguniv.edu.ua/?page_id=286&lang=ru");
+            System.Diagnostics.Process.Start("https://github.com/Arcticcrunch/Number-system-converter");
+        }
+
+        private void LinkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://vk.com/nikolol");
+
         }
     }
 }
