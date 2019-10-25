@@ -1,0 +1,11 @@
+C:\GitHub\Number system converter\Number system converter\bin\Debug\Number system converter.exe.config
+C:\GitHub\Number system converter\Number system converter\bin\Debug\Number system converter.exe
+C:\GitHub\Number system converter\Number system converter\bin\Debug\Number system converter.pdb
+C:\GitHub\Number system converter\Number system converter\obj\Debug\Number system converter.csprojAssemblyReference.cache
+C:\GitHub\Number system converter\Number system converter\obj\Debug\Number_system_converter.About_Form.resources
+C:\GitHub\Number system converter\Number system converter\obj\Debug\Number_system_converter.Form1.resources
+C:\GitHub\Number system converter\Number system converter\obj\Debug\Number_system_converter.Properties.Resources.resources
+C:\GitHub\Number system converter\Number system converter\obj\Debug\Number system converter.csproj.GenerateResource.cache
+C:\GitHub\Number system converter\Number system converter\obj\Debug\Number system converter.csproj.CoreCompileInputs.cache
+C:\GitHub\Number system converter\Number system converter\obj\Debug\Number system converter.exe
+C:\GitHub\Number system converter\Number system converter\obj\Debug\Number system converter.pdb
