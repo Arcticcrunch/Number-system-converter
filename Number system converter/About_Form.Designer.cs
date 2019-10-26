@@ -120,6 +120,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "About_Form";
+            this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "О программе";
             this.TopMost = true;
